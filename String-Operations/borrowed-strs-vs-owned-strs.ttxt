@@ -1,0 +1,11 @@
+When to use borrowed strings vs String class in rust?
+
+
+In general, if you need to pass a string around without modifying it, or 
+if the string's lifetime is shorter than the function that uses it, 
+use a borrowed string (&str). If you need to manipulate the string or 
+modify it over time, use a String. It's also worth noting that some 
+APIs might only accept one type or the other, so you might need to use 
+a particular type based on the requirements of the API you're interacting 
+with.
+
