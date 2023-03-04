@@ -1,6 +1,0 @@
-https://maxuuell.com/blog/how-to-concatenate-strings-in-rust
-
-
-What if we wanted to produce a new string, leaving both untouched? The 
-simplest way is to use format!:
-
