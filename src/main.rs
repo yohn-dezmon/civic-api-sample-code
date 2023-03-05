@@ -5,7 +5,6 @@ use std::env;
 // tokio runtime for async code
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
-    // TODO: Make this an environment variable
     let api_key = env::var("OPEN_FEC_API_KEY").unwrap();
     // Daniel Goldman's candidate_id
     let candidate_id = "H2NY10308";
