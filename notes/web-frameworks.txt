@@ -1,0 +1,17 @@
+Web Frameworks in Rust (for building a RESTful API):
+
+1. Actix Web 
+
+
+2. Rocket 
+
+
+3. Warp 
+
+
+4. Axum 
+- people on reddit like this: https://www.reddit.com/r/rust/comments/v095qx/warp_or_rocketrs_or_actix_web/
+- integrates with gRPC (tonic)
+
+
+5. 

@@ -1,0 +1,11 @@
+$Env:OPEN_FEC_API_KEY
+
+close and reopen the powershell window
+
+$Env:OPEN_FEC_API_KEY --> retrieves the value
+
+
+use std::env;
+env::var("API_KEY").unwrap();
+
+
