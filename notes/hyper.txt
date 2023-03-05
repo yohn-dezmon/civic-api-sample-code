@@ -1,6 +1,0 @@
-I think this is the equivalent to `requests` in python.
-Why did `cargo add hyper` take so long?
-
-hyper guides:
-https://hyper.rs/guides/0.14/
-

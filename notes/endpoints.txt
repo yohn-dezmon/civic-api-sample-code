@@ -1,7 +1,0 @@
-curl -X 'GET' \
-  'https://api.open.fec.gov/v1/names/candidates/?api_key=7pHETJAtm5xfDSrjSmPN7t3e21SZAEf3ynC7V11h&q=Daniel%20Goldman' \
-  -H 'accept: application/json'
-
-https://api.open.fec.gov/v1/names/candidates/?api_key=7pHETJAtm5xfDSrjSmPN7t3e21SZAEf3ynC7V11h&q=Daniel%20Goldman
-
-
